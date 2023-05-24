@@ -16,4 +16,17 @@ $textStorage = [
 
 
 
+     $title = readline("Название текста :");
+     var_dump($title);
+//$elementsNumber = count($textStorage);
+
+/*function add (&$textStorage){
+foreach ($textStorage as $textStorageKey)
+{
+    if ($textStorageKey <= 1){
+       $textStorage + [2 => ['title' => [],
+            'text'=>[]
+        ]];
+    }
+}
 }
