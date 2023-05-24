@@ -12,10 +12,8 @@ $textStorage = [
 
    function add ($title, $text) {
 
-$textStorage = [];
-function add ($textStorage)
-{
-    $title = readline('Введите название : ');
-    $text = readline('Введите текст : ');
+   }
+
+
 
 }
