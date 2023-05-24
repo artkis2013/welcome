@@ -30,3 +30,6 @@ foreach ($textStorage as $textStorageKey)
     }
 }
 }
+
+add ($textStorage);
+var_dump ($textStorage);*/
